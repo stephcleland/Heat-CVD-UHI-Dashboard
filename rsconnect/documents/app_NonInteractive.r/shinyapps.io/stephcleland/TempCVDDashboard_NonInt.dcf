@@ -1,0 +1,14 @@
+name: TempCVDDashboard_NonInt
+title: TempCVDDashboard_NonInt
+username:
+account: stephcleland
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7788990
+bundleId: 6579159
+url: https://stephcleland.shinyapps.io/TempCVDDashboard_NonInt/
+when: 1669932639.38851
+lastSyncTime: 1669932639.38851
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: app.r|app_OLD_v1.r|app_OLD_v2.r|app_OLD_v3.r|Documentation for R Shiny Dashboard.docx|Documentation_R Shiny Dashboard_GitHub.docx
